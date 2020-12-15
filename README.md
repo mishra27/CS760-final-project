@@ -14,3 +14,5 @@
 ### SVM
 * Use svm.ipynb to produce the result similar to that in the project
 
+
+**Please reload the .ipynb files it might not open the first time. It will eventually open in 2-3 tries though :)
